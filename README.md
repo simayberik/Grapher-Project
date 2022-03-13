@@ -6,5 +6,5 @@ calculate R, R2, R3, ... , Rn, R* and Rmin matrices. R matrix gives directly con
 matrix gives exactly 2 steps away points. Rn matrix gives exactly n steps away points. R* matrix gives all 
 connected points. Rmin matrix gives the minimum number of steps required for going point a to point b. 
 
-#Info
+# Info
 For more information about game rules please read the game file.
