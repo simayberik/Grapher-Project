@@ -1,5 +1,5 @@
 # Grapher-Project
-Grapher is a mini gamr project which provides us to find a graphs nodes and creates R, R2,R3...Rn ,R* and Rmin matrices with considering the connections between the graphs nodes.
+Grapher is a mini game project which provides us to find a graphs nodes and creates R, R2,R3...Rn ,R* and Rmin matrices with considering the connections between the graphs nodes.
 Project has two options(drawing graph manuel or reading the given graph from file).User can change the given graph. Graphs  and matrices can be saved to text files separately.  
 The application has a board with 25*40 squares. In this application; user can draw, load, save a graph, and 
 calculate R, R2, R3, ... , Rn, R* and Rmin matrices. R matrix gives directly connected nodes (1 step away). R2 
